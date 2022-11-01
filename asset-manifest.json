@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-deploy/static/css/main.b40c223a.css",
+    "main.js": "/react-deploy/static/js/main.a950b4db.js",
+    "static/media/work1.jpg": "/react-deploy/static/media/work1.1b483461a6ca10f18d82.jpg",
+    "static/media/profile.jpg": "/react-deploy/static/media/profile.3739c183268e296b0ada.jpg",
+    "static/media/work2.jpg": "/react-deploy/static/media/work2.740ef220574d8abdb16c.jpg",
+    "static/media/work3.jpg": "/react-deploy/static/media/work3.075e083a8bf3e1e6b31d.jpg",
+    "static/media/about.jpg": "/react-deploy/static/media/about.9392eca34a98691b8b86.jpg",
+    "static/media/work4.jpg": "/react-deploy/static/media/work4.22fe21559a3d03bc8768.jpg",
+    "static/media/cv.pdf": "/react-deploy/static/media/cv.ebdedff327e949edb792.pdf",
+    "index.html": "/react-deploy/index.html",
+    "main.b40c223a.css.map": "/react-deploy/static/css/main.b40c223a.css.map",
+    "main.a950b4db.js.map": "/react-deploy/static/js/main.a950b4db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b40c223a.css",
+    "static/js/main.a950b4db.js"
+  ]
+}
